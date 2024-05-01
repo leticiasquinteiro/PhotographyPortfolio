@@ -6,6 +6,7 @@ Images were taken in pexels:
 
 firstbackground: https://www.pexels.com/pt-br/foto/folhas-verdes-em-cima-de-um-livro-aberto-perto-de-pincel-e-planta-de-cobra-verde-no-vaso-2099266/
 secondbackground: https://www.pexels.com/pt-br/foto/dois-livros-etiquetados-em-vermelho-e-branco-762686/
+thirdbackground: https://www.pexels.com/pt-br/foto/foto-de-close-up-de-folhas-verdes-1441585/
 
 portrait_one: https://www.pexels.com/pt-br/foto/banho-banheira-tomando-banho-banheiro-4156283/
 portrait_two: https://www.pexels.com/pt-br/foto/leve-luz-light-areia-10627234/ 
