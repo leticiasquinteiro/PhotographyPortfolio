@@ -11,7 +11,7 @@
 }
 
 body{
-
+    background-color: wheat;
 }
 
 .cabecalho{
@@ -72,7 +72,7 @@ button {
     padding: 10px;
 }
 
-.perfil{
+.divisor{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -82,16 +82,18 @@ button {
     padding-top: 20px;
 }
 
-.perfiltres{
+.imagem-posicao{
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
 
-    padding-top: 10px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+    border-bottom: 4px dashed rgb(114, 84, 46);
 }
 
-.perfiltres img {
+.imagem-posicao img {
     height: 280px;
     width: 436px;
     margin: auto;
@@ -104,4 +106,23 @@ button {
 .paragrafo-imagens{
     font-family: "DM Sans", sans-serif;
     font-size: 1.2em;
+    padding-bottom: 5px;
+}
+
+.info{
+    background: url(imagens/third_background.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding: 270px;
+}
+
+.info-info{
+    background-color: rgba(0, 0, 0, 0.274);
+}
+
+.paragrafo-info{
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    font-size: 1.3em;
+    padding-bottom: 5px;
 }
